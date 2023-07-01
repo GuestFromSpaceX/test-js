@@ -1,0 +1,2 @@
+alert('Privet!');
+alert('Poka?')
